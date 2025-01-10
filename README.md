@@ -1,4 +1,4 @@
-qunit-dom
+ qunit-dom
 ==============================================================================
 
 [![CI Build Status](https://github.com/simplabs/qunit-dom/actions/workflows/ci.yml/badge.svg)](https://github.com/simplabs/qunit-dom/actions/workflows/ci.yml)
